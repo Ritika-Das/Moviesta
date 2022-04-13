@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Moviesta/static/css/main.f522c605.css",
+    "main.js": "/Moviesta/static/js/main.11b94ec3.js",
+    "index.html": "/Moviesta/index.html",
+    "main.f522c605.css.map": "/Moviesta/static/css/main.f522c605.css.map",
+    "main.11b94ec3.js.map": "/Moviesta/static/js/main.11b94ec3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f522c605.css",
+    "static/js/main.11b94ec3.js"
+  ]
+}
